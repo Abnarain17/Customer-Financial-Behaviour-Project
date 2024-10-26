@@ -1,4 +1,4 @@
-# Customer-Financial-Behaviour-Project
+# Customer-Financial-Behaviour-Project \n
 **Introduction:**
 In today’s digital world, data is the backbone of informed decision-making. For the financial sector, understanding customer behaviors and preferences is essential for maintaining a competitive edge and enhancing service quality. This article presents a comprehensive guide to a Power BI capstone project focused on banking data analysis. This project leverages Power BI’s capabilities to analyze customer demographics, banking behaviors, and loan information for XYZ Bank. By visualizing data, we can uncover trends and insights that drive data-backed decisions.
  
